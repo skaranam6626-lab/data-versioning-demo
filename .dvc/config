@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://sk-s3-1-datamgmt/dvc-store
